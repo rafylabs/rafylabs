@@ -24,7 +24,6 @@ Engineering and security are the same skill applied in opposite directions. Unde
 | **bbrowse** | Chrome DevTools Protocol (CDP) browser automation harness for security research: SPA crawling, network/DOM extraction, and cookie injection. | [Repository](https://github.com/rafylabs/bbrowse) |
 | **jshunt** | Client-side JavaScript credential and secret hunter with subjs, gitleaks, and curated gf pattern matching. | [Repository](https://github.com/rafylabs/jshunt) |
 | **Scripio** | AI Telegram finance tracker and receipt scanner with instant Google Sheets sync. Zero-storage data privacy architecture. | [@ScripioBot](https://t.me/ScripioBot) · [Dashboard](https://scripio.rafylabs.com) |
-| **Vellumark** | Local-first markdown storage and live preview PWA with client-side isolation and bi-directional sync. | [Live App](https://vellumark.rafylabs.com) |
 | **Synapcut** | Desktop application and automated video pipeline for clipping long-form media into vertical shorts. Desktop ASAR and IPC architecture experience. | Private |
 | **rafylabs-web** | Official security researcher portfolio and engineering showcase with published vulnerability writeups. | [rafylabs.com](https://rafylabs.com) |
 
